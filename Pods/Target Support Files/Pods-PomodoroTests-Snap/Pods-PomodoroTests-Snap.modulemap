@@ -1,0 +1,6 @@
+framework module Snap {
+  umbrella header "Pods-PomodoroTests-Snap-umbrella.h"
+
+  export *
+  module * { export * }
+}

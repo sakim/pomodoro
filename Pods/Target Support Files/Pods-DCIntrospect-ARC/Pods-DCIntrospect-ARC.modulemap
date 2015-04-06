@@ -1,0 +1,6 @@
+framework module DCIntrospect_ARC {
+  umbrella header "Pods-DCIntrospect-ARC-umbrella.h"
+
+  export *
+  module * { export * }
+}
